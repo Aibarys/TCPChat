@@ -49,8 +49,3 @@ To change your name you can use the following command:
   You have changed the name from Aiba to Aibarys
   [2023-06-07 21:08:52][Aibarys]:
 ```
-
-
-## Authors
-
-- [@ashaimur](https://01.alem.school/git/ashaimur)
